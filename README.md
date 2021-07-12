@@ -1,13 +1,15 @@
 # Project Name
 
-> Project description
+> Coursera About Service Contains a description of the course, along with some strategic goals and possible outcomes of taking the course.
+
+[View the sample on Coursera under "Title Banner"](https://www.coursera.org/learn/machine-learning)
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+- https://github.com/Ingenuity-rpt26/shane-service-about
+- https://github.com/Ingenuity-rpt26/Grant--Service_1
+- https://github.com/Ingenuity-rpt26/jsmithService1
+- https://github.com/Ingenuity-rpt26/vinay-proxy
 
 ## Table of Contents
 
@@ -17,7 +19,7 @@
 
 ## Usage
 
-> Some usage instructions
+> Seed the db with course title Name and Number of students enrolled 
 
 ## Requirements
 
